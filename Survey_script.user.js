@@ -7,6 +7,7 @@
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
 // @run-at       document-end
+// @license      N/A
 // ==/UserScript==
 
 "use strict";
