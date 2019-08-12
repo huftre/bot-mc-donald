@@ -6,6 +6,7 @@
 // @author       huftre
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
+// @property     huftre
 // @license      GPL version 3 or any later version
 // @run-at       document-end
 // ==/UserScript==
