@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Survey_script
+// @name         Survey script
 // @namespace    N/A
 // @version      1.1
 // @description  This script will make your life simple.
