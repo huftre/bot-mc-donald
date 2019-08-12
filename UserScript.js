@@ -12,6 +12,7 @@
 
 // ==OpenUserJS==
 // @author huftre
+// @collaborator ric19
 // ==/OpenUserJS==
 
 "use strict";
