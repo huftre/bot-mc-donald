@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Survey script
+// @name         Survey_script
 // @namespace    N/A
 // @version      1.1
 // @description  This script will make your life simple.
@@ -7,7 +7,7 @@
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
 // @run-at       document-end
-// @license      N/A
+// @license      OSI
 // ==/UserScript==
 
 "use strict";
