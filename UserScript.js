@@ -3,7 +3,7 @@
 // @namespace    N/A
 // @version      1.1
 // @description  This script will make your life simple.
-// @author       Blexure
+// @author       huftre
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
 // @license      GPL version 3 or any later version
