@@ -10,6 +10,10 @@
 // @run-at       document-end
 // ==/UserScript==
 
+// ==OpenUserJS==
+// @author huftre
+// ==/OpenUserJS==
+
 "use strict";
 
 var _0x5708 = [
