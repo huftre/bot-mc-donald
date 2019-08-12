@@ -7,7 +7,7 @@
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
 // @run-at       document-end
-// @license      GPL version 3 or any later version;
+// @license      GPL version 3 or any later version
 // ==/UserScript==
 
 "use strict";
