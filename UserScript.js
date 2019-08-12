@@ -6,8 +6,8 @@
 // @author       Blexure
 // @match        https://voice.fast-insight.com/s/GVQ8N*
 // @grant        none
-// @run-at       document-end
 // @license      GPL version 3 or any later version
+// @run-at       document-end
 // ==/UserScript==
 
 "use strict";
