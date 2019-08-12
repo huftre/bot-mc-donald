@@ -2,6 +2,12 @@
 // @name         Survey script
 // @namespace    N/A
 // @version      1.1
+// @copyright    2019, huftre
+// @icon         none
+// @homepageURL  none
+// @supportURL   none
+// @contributionURL none
+// @updateURL    none
 // @description  This script will make your life simple.
 // @author       huftre
 // @match        https://voice.fast-insight.com/s/GVQ8N*
